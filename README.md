@@ -31,7 +31,7 @@ A feature-rich Flutter quiz application with Firebase integration, Riverpod stat
 1. **Clone the repository**
 
 ```bash
-https://github.com/tej-2229/Quiz-App.git
+git clone https://github.com/tej-2229/Quiz-App.git
 ```
 
 2. **Install packages**
